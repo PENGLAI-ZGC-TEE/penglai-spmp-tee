@@ -1,15 +1,16 @@
 [submodule "opensbi"]
 	path = opensbi
 	url = git@github.com:PENGLAI-ZGC-TEE/opensbi.git
-	branch = penglai-zgc-tee
+	branch = origin/yjy-spmp
 [submodule "riscv-rootfs"]
 	path = riscv-rootfs
 	url = git@github.com:PENGLAI-ZGC-TEE/riscv-rootfs.git
-	branch = penglai-zgc-tee
+	branch = origin/yjy-spmp
 [submodule "NEMU"]
 	path = NEMU
 	url = git@github.com:PENGLAI-ZGC-TEE/NEMU.git
-	branch = hosttlb-tmp
+	branch = origin/yjy-spmp
 [submodule "debian-linux-kernel"]
 	path = debian-linux-kernel
 	url = git@github.com:PENGLAI-ZGC-TEE/debian-linux-kernel.git
+	branch = origin/yjy-spmp
